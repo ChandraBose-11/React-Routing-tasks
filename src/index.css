@@ -1,0 +1,33 @@
+.nav-item a {
+    text-decoration: none;
+    margin-right: 60px;
+    color: black;
+  }
+  .navbar {
+    margin: 20px;
+  }
+  .nav-item a:hover {
+    color: rgb(40, 193, 95);
+    border-bottom: 2px solid rgb(40, 193, 95);
+  }
+  .card {
+    box-shadow: 3px 3px 3px rgb(157, 157, 157);
+    border: 0.5px solid rgb(157, 157, 157);
+  }
+  .card:hover {
+    cursor: pointer;
+    transform: scale(1.01);
+    transition: all 0.5s;
+  }
+  .col {
+    height: 23rem;
+    margin: 10px;
+  }
+  .card {
+    padding: 15px;
+  }
+  .card-img {
+    height: 500px;
+    width: auto;
+  }
+  
