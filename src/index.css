@@ -9,7 +9,7 @@
   }
   .nav-item a:hover {
     color:white;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid green;
   }
   .card {
     box-shadow: 3px 3px 3px rgb(157, 157, 157);
