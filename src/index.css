@@ -5,10 +5,11 @@
   }
   .navbar {
     margin: 20px;
+    background-color: rgb(40, 193, 95) !important;
   }
   .nav-item a:hover {
-    color: rgb(40, 193, 95);
-    border-bottom: 2px solid rgb(40, 193, 95);
+    color:white;
+    border-bottom: 2px solid black;
   }
   .card {
     box-shadow: 3px 3px 3px rgb(157, 157, 157);
